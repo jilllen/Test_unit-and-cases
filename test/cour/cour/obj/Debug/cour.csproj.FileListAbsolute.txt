@@ -1,0 +1,45 @@
+C:\Users\gkeor\source\repos\cour\cour\bin\Debug\cour.exe.config
+C:\Users\gkeor\source\repos\cour\cour\bin\Debug\cour.exe
+C:\Users\gkeor\source\repos\cour\cour\bin\Debug\cour.pdb
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour.csprojAssemblyReference.cache
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\MainWindow.g.cs
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\App.g.cs
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour_MarkupCompile.cache
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour_MarkupCompile.lref
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\MainWindow.baml
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour.g.resources
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour.Properties.Resources.resources
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour.csproj.GenerateResource.cache
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour.csproj.CoreCompileInputs.cache
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour.exe
+C:\Users\gkeor\source\repos\cour\cour\obj\Debug\cour.pdb
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\bin\Debug\cour.exe.config
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\bin\Debug\cour.exe
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\bin\Debug\cour.pdb
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour.csprojAssemblyReference.cache
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\MainWindow.g.cs
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\App.g.cs
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour_MarkupCompile.cache
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour_MarkupCompile.lref
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\MainWindow.baml
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour.g.resources
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour.Properties.Resources.resources
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour.csproj.GenerateResource.cache
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour.csproj.CoreCompileInputs.cache
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour.exe
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\cour\obj\Debug\cour.pdb
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\bin\Debug\cour.exe.config
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\bin\Debug\cour.exe
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\bin\Debug\cour.pdb
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour.csprojAssemblyReference.cache
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\MainWindow.g.cs
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\App.g.cs
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour_MarkupCompile.cache
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour_MarkupCompile.lref
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\MainWindow.baml
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour.g.resources
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour.Properties.Resources.resources
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour.csproj.GenerateResource.cache
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour.csproj.CoreCompileInputs.cache
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour.exe
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\cour\obj\Debug\cour.pdb

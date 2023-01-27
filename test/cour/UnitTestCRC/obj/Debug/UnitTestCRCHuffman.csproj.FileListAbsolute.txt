@@ -1,0 +1,60 @@
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\UnitTestCRC.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\UnitTestCRC.pdb
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\cour.exe
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\cour.pdb
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\cour.exe.config
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csprojAssemblyReference.cache
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csproj.CoreCompileInputs.cache
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csproj.CopyComplete
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\obj\Debug\UnitTestCRC.dll
+C:\Users\gkeor\source\repos\cour\UnitTestCRC\obj\Debug\UnitTestCRC.pdb
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\UnitTestCRC.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\UnitTestCRC.pdb
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\cour.exe
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\cour.pdb
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\cour.exe.config
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csprojAssemblyReference.cache
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csproj.CoreCompileInputs.cache
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csproj.CopyComplete
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRC.dll
+G:\разобрать этот пиздец сессии 6 сема\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRC.pdb
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\UnitTestCRC.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\UnitTestCRC.pdb
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\cour.exe
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\cour.pdb
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\cour.exe.config
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csprojAssemblyReference.cache
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csproj.CoreCompileInputs.cache
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRCHuffman.csproj.CopyComplete
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRC.dll
+C:\Users\gkeor\OneDrive\Рабочий стол\KursachTIiK\cour\UnitTestCRC\obj\Debug\UnitTestCRC.pdb
